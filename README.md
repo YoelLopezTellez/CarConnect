@@ -7,7 +7,7 @@ CarConnect es un prototipo de aplicación ERP y CRM diseñado para gestionar emp
 - [Memòria](https://docs.google.com/document/d/1rDW2JKC5IKOYyLZL2HBUOGQDDR4lrDda6XauRIjkXtY/edit?usp=sharing)  
   Documento donde se explica el desarrollo y los detalles del proyecto.
 
-- [Presentació Projecte](https://www.canva.com/design/DAGbjsGQslY/jGjDVa2nuaIbZ6LJuUIyjg/view?utm_content=DAGbjsGQslY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f8fb5bdbc))  
+- [Presentació Projecte](https://www.canva.com/design/DAGbjsGQslY/jGjDVa2nuaIbZ6LJuUIyjg/view?utm_content=DAGbjsGQslY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f8fb5bdbc)  
   Presentación de nuestro proyecto CarConnect. 
 
 ### Opcional
